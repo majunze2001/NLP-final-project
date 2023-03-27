@@ -1,0 +1,3 @@
+[submodule "writeups"]
+	path = writeups
+	url = https://github.com/majunze2001/NLP-final-project-writeup.git
