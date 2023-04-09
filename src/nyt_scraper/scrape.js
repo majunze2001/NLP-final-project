@@ -1,3 +1,5 @@
+import * as dotenv from 'dotenv' // see https://github.com/motdotla/dotenv#how-do-i-use-dotenv-with-import
+dotenv.config()
 import * as playwright from 'playwright'
 import fs from 'fs';
 import path from 'path';
@@ -11,13 +13,13 @@ const login = async (page) => {
     await page.click('.css-ni9it0.e1j3jvdr0');
 
     await page.waitForSelector('input[name="email"]');
-    await page.fill('input[name="email"]', 'majunze2001@gmail.com');
+    await page.fill('input[name="email"]', process.env.NYT_EMAIL);
 
     await page.waitForSelector('[data-testid="submit-email"]');
     await page.click('[data-testid="submit-email"]');
 
     await page.waitForSelector('input[name="password"]');
-    await page.fill('input[name="password"]', 'Mjz010827');
+    await page.fill('input[name="password"]', process.env.NYT_PASSWORD);
     await page.click('[data-testid="login-button"]');
 
     await page.waitForSelector('[data-testid="user-settings-button"]');
