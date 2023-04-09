@@ -57,9 +57,9 @@ const main = async () => {
 
     // Generate date strings for every day in 2020 and 2021
     const dateStrings = [];
-    for (let year = 2021; year <= 2021; year++) {
+    for (let year = 2020; year <= 2021; year++) {
         const maxMonth = 12;
-        for (let month = 6; month <= maxMonth; month++) {
+        for (let month = 1; month <= maxMonth; month++) {
             const maxDay = new Date(year, month, 0).getDate(); // Get the number of days in this month
             for (let day = 1; day <= maxDay; day++) {
                 const dateString = `${year}${month.toString().padStart(2, '0')}${day.toString().padStart(2, '0')}`;
