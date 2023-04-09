@@ -29,6 +29,7 @@ const login = async (page) => {
 const scrapeText = async (url, context, date, counter) => {
     const page = await context.newPage();
     await page.goto(url);
+    // await page.waitForTimeout(2000); // wait for some time
     const paragraphs = await page.$$('p.css-at9mc1.evys1bk0');
 
     const textArray = [];
@@ -59,11 +60,8 @@ const main = async () => {
         headless: true // setting this to true will not run the UI
     });
     const context = await browser.newContext();
-    // const loginPage = await context.newPage();
-    // await login(loginPage);
-
-    // await scrapeText("https://www.nytimes.com/2021/01/01/us/politics/iran-trump.html?searchResultPosition=1",
-    //     context, 20210101, 1)
+    const loginPage = await context.newPage();
+    await login(loginPage);
 
     const linksFolderPath = path.join(__dirname, 'links');
     const linkFiles = fs.readdirSync(linksFolderPath);
