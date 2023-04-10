@@ -35,7 +35,8 @@ const scrapeText = async (url, context, date, counter) => {
     const textArray = [];
 
     const titleEle = await page.$$('[data-testid="headline"]');
-    textArray.push(titleEle.innerText());
+    const title = await titleEle[0].innerText();
+    textArray.push(title);
 
     // loop through the p elements and add their text to the array
     for (const p of paragraphs) {
@@ -60,7 +61,7 @@ const scrapeText = async (url, context, date, counter) => {
 
 const main = async () => {
     const browser = await playwright.chromium.launch({
-        headless: true // setting this to true will not run the UI
+        headless: false // setting this to true will not run the UI
     });
     const context = await browser.newContext();
     const loginPage = await context.newPage();
@@ -86,6 +87,7 @@ const main = async () => {
                 } catch (err) {
                     console.log(`Error scraping article: ${url}`);
                     console.error(err);
+                    await new Promise((resolve) => setTimeout(resolve, 10000));
                 }
             }
         }
