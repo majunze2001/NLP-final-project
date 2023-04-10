@@ -10,7 +10,7 @@ const main = async () => {
     const browser = await playwright.chromium.launch({
         headless: true // setting this to true will not run the UI
     });
-    const context = await browser.newContext();
+    let context = await browser.newContext();
     const MAX_RETRY = 10;
 
     const scrapeLinks = async (dateString) => {
@@ -69,7 +69,9 @@ const main = async () => {
                 return matchingLinks
             } catch (e) {
                 retries++;
-                await page.close()
+                console.error(e, "--retrying");
+                await context.close();
+                context = await browser.newContext();
                 await new Promise((resolve) => setTimeout(resolve, 3000));
             }
         }
@@ -79,9 +81,9 @@ const main = async () => {
     const dateStrings = [];
     for (let year = 2020; year <= 2021; year++) {
         const maxMonth = 12;
-        for (let month = 1; month <= maxMonth; month++) {
+        for (let month = 6; month <= maxMonth; month++) {
             const maxDay = new Date(year, month, 0).getDate(); // Get the number of days in this month
-            for (let day = 1; day <= maxDay; day++) {
+            for (let day = 18; day <= maxDay; day++) {
                 const dateString = `${year}${month.toString().padStart(2, '0')}${day.toString().padStart(2, '0')}`;
                 dateStrings.push(dateString);
             }
