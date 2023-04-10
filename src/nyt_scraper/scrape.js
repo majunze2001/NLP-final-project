@@ -34,6 +34,9 @@ const scrapeText = async (url, context, date, counter) => {
 
     const textArray = [];
 
+    const titleEle = await page.$$('[data-testid="headline"]');
+    textArray.push(titleEle.innerText());
+
     // loop through the p elements and add their text to the array
     for (const p of paragraphs) {
         const paragraphText = await p.innerText();
