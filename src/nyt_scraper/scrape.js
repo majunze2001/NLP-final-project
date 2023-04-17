@@ -6,7 +6,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-
+const next_day = '20200113'
+const next_count = 123
 
 const login = async (page) => {
     await page.goto('https://www.nytimes.com/');
@@ -29,7 +30,9 @@ const login = async (page) => {
 const scrapeText = async (url, context, date, counter) => {
     const page = await context.newPage();
     await page.goto(url);
-    // await page.waitForTimeout(2000); // wait for some time
+    
+
+    await page.waitForTimeout(2000); // wait for some time
     const paragraphs = await page.$$('p.css-at9mc1.evys1bk0');
 
     const textArray = [];
@@ -49,6 +52,9 @@ const scrapeText = async (url, context, date, counter) => {
     // join the array pieces together into a single string
     const articleText = textArray.join('\n');
     console.log(`Article text for ${date} ${counter}:`, articleText.length);
+    if (articleText.length == 0){
+        process.exit(0)
+    }
 
     // create the data folder if it doesn't exist
     if (!fs.existsSync('data')) {
@@ -58,8 +64,11 @@ const scrapeText = async (url, context, date, counter) => {
     // save the article text to a file
     const fileName = `${date}_${counter}.txt`;
     await page.close();
+    await new Promise((resolve) => setTimeout(resolve, 15000 + Math.floor(Math.random() * 10000)));
     fs.writeFileSync(`data/${fileName}`, articleText);
 }
+
+
 
 const main = async () => {
     const browser = await playwright.chromium.launch({
@@ -76,14 +85,20 @@ const main = async () => {
     for (const linkFile of linkFiles) {
         // Read URLs from the link file
         const date = linkFile.split('.')[0];
+        if (date < next_day){
+            continue;
+        }
+
         const linkFilePath = path.join(linksFolderPath, linkFile);
         const urls = fs.readFileSync(linkFilePath, 'utf-8').split('\n');
-
         // Loop through each URL and scrape the article text
         let counter = 0;
         for (const url of urls) {
             if (url !== '' && url.startsWith(`https://www.nytimes.com/${date.slice(0, 4)}/${date.slice(4, 6)}/${date.slice(6)}/`)) {
                 counter++;
+                if (date == next_day && counter < next_count){
+                    continue;
+                }
                 try {
                     await scrapeText(url, context, date, counter);
                 } catch (err) {

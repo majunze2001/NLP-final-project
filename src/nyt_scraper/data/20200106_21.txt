@@ -1,0 +1,20 @@
+Government Website Is Hacked With Pro-Iran Messages
+A federal government website was hacked over the weekend to show messages vowing revenge for the death of Iran’s most powerful commander and a doctored photograph of President Trump being punched in the jaw. The intrusion was consistent with the work of low-level nationalist Iranian hackers, experts said.
+For an unspecified amount of time starting Saturday, the website of the Federal Depository Library Program featured the altered photograph superimposed over a map of the Middle East, accompanied by a tribute to Maj. Gen. Qassim Suleimani, whose killing in an American drone strike on Friday prompted worldwide political upheaval.
+“Hacked by Iran Cyber Security Group Hackers,” text on the website read before it was put back online. “This is only small part of Iran’s cyber ability!”
+The program, administered by the United States Government Publishing Office, helps the public access government documents on a wide variety of subjects — including bills, regulations and studies — in more than 1,100 libraries around the country. Its website was taken down for 24 hours as officials conducted a security analysis and put back online Sunday after they found that “none of the site’s data was compromised,” Gary Somerset, a spokesman for the office, said in an email Monday.
+It was not immediately clear if the attack had come from Iran or if the country had ordered it. Mr. Somerset said the office “continues to coordinate with the appropriate authorities to investigate the origins of the intrusion.”
+A spokeswoman for the Cybersecurity and Infrastructure Security Agency, which is under the Department of Homeland Security, said in a statement that there was no confirmation that hackers sponsored by Iran were behind the attack.
+She said, without elaborating, that hackers were able to exploit a “misconfiguration” in the website’s content management system that was subsequently fixed. She said that “in these times of increased threats,” all organizations should increase safeguards against possible attacks.
+The hack came as experts and officials have warned of possible cyberattacks in the wake of General Suleimani’s killing.
+The attack on the Federal Depository Library Program’s site was “superficial” and seemed to reflect “nationalist, low-grade hacking activity,” said John Hultquist, senior director of intelligence analysis at the cybersecurity company FireEye. He said it did not suggest the possibility of a larger, more serious attack.
+“It kind of looks worse than it really is,” he said.
+In some cases, the Iranian government pays hackers to conduct such attacks, Mr. Hultquist said; in others, the hacks come from people conscripted by Iran for government service. But the government does not need to explicitly order such attacks at all.
+“It’s like a guard dog,” he said. “You don’t necessarily have to be there for it to do the job.”
+Mr. Hultquist said hackers regularly trawl government websites, looking for vulnerabilities.
+“They’re looking for anything with any remote connection with the U.S. government,” he said. “They found this one.”
+The website pulled in a modest amount of traffic in 2019 — 634,000 page views, according to Mr. Somerset. He said the website is used by library staff nationwide.
+James A. Lewis, a former government official and cybersecurity expert at the Center for Strategic and International Studies in Washington, said the program was probably the agency the hackers “found first that had weak security.”
+He said the hack was likely not conducted by Iran’s more sophisticated team but instead recalled a “low-budget hack of the sort Iran’s ‘patriot hackers’ are known for, including the cheesy imagery.”
+Bigger agencies have better defenses and are likely to be safe, Mr. Lewis said. But Iran could possibly find more vulnerabilities like the one exposed by the hackers of the program’s website.
+“Possibly another small agency — there are dozens,” he said. “It’s really a political decision for Iran’s leaders. Iran has the capability to do something dramatic, but at least for now, they want to avoid something so dramatic as to invite retaliation.”

@@ -1,0 +1,7 @@
+Body Temperature 2.0: Do We Need to Rethink What’s Normal?
+We seem to be getting cooler. Since 1851, when the standard was set at 37 degrees centigrade, or 98.6 Fahrenheit, the average human body temperature has steadily declined.
+Researchers studied three databases: 23,710 readings obtained between 1862 and 1930 in veterans of the Civil War; 15,301 records in a national health survey from 1971 to 1975; and 150,280 entries in a Stanford University database from 2007 to 2017. The analysis is in eLife.
+Over all, average body temperature decreased by 0.03 degrees centigrade, or about 0.05 degrees Fahrenheit, per birth decade.
+Differences in measurement techniques and equipment do not explain the effect. The decline was evident even within each database, year by year, and the drop between the two modern databases, when equipment and techniques were presumably the same, was identical.
+Why this is happening is unclear, but the scientists suggest that improvements in sanitation and improved dental and medical care have reduced chronic inflammation, and the constant temperatures maintained by modern heating and air conditioning have helped lower resting metabolic rates. Today, a temperature of 97.5 may be closer to “normal” than the traditional 98.6.
+“We’ve looked at the U.S.,” said the senior author, Dr. Julie Parsonnet, a professor of medicine at Stanford, “and we have to see if this holds true elsewhere. We’re evolving physiologically. But what does it really mean? I don’t know. I haven’t figured out exactly how to look at that.”

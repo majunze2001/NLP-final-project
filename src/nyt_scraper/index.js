@@ -26,6 +26,8 @@ const main = async () => {
         while (retries < MAX_RETRY) {
             try {
                 const page = await context.newPage();
+                page.setDefaultTimeout(30000);
+                page.setDefaultNavigationTimeout(30000);
                 await page.goto(`https://www.nytimes.com/search?dropmab=false&endDate=${dateString}&query=&sort=best&startDate=${dateString}&types=article`);
 
                 // Wait for the search results to load
@@ -38,29 +40,44 @@ const main = async () => {
                 await searchButtons[1].click();
 
                 let waitCount = 0;
-                let count = await page.$$eval('li.css-1l4w6pd[data-testid="search-bodega-result"]', elements => elements.length);
-                while (count < totalNum) {
+                let count = await page.$$eval('.css-e1lvw9 a', elements => elements.length);
+                while (count < totalNum - 5) {
                     // Click the "Show More" button
+                    process.stdout.write(count+" ")
                     const showMoreButton = await page.$('[data-testid="search-show-more-button"]');
                     if (showMoreButton) {
+                        process.stdout.write(" c ")
                         await showMoreButton.click();
                         // Wait for the search results to load
-                        await Promise.all([
-                            page.waitForSelector('[data-testid="search-results"] li:last-child'),
-                            page.waitForSelector('[data-testid="search-show-more-button"]'),
-                        ]);
+                        await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
+                        await page.waitForSelector('[data-testid="search-results"] li:last-child')
+                        await page.$('[data-testid="search-show-more-button"]');
+                        let curCount = await page.$$eval('.css-e1lvw9 a', elements => elements.length);
+                        let curWait = 0;
+                        while (curCount === count && curWait <= 10 * 1000 / 200 ){
+                            await page.waitForTimeout(200); // we wait for at most 5s   s
+                            curCount = await page.$$eval('.css-e1lvw9 a', elements => elements.length);
+                            curWait++
+                        }
+                        if (curCount === count){
+                            throw new Error(`Time out, ${dateString} ${count}`)
+                        }
                     } else {
+                        console.log("no showmore button")
                         waitCount++
                         if (waitCount < MAX_WAIT) {
-                            await page.waitForTimeout(200);
+                            await page.waitForTimeout(1000);
                             continue
                         } else if (retries < MAX_RETRY - 2) {
                             throw new Error(`showMoreButton is gone ... at, ${dateString} ${count}`)
+                        } else{
+                            break
                         }
                     }
-                    count = await page.$$eval('li.css-1l4w6pd[data-testid="search-bodega-result"]', elements => elements.length);
+                    count = await page.$$eval('.css-e1lvw9 a', elements => elements.length);
                     await page.waitForTimeout(200);
                 }
+                console.log(count)
 
                 // Extract the links
                 const links = await page.$$eval(
@@ -88,11 +105,14 @@ const main = async () => {
 
     // Generate date strings for every day in 2020 and 2021
     const dateStrings = [];
-    for (let year = 2020; year <= 2021; year++) {
+    for (let year = 2020; year <= 2020; year++) {
         const maxMonth = 12;
         for (let month = 1; month <= maxMonth; month++) {
             const maxDay = new Date(year, month, 0).getDate(); // Get the number of days in this month
             for (let day = 1; day <= maxDay; day++) {
+                // if (year === 2020 && month <=3 && day <=25){
+                //     continue;
+                // }
                 const dateString = `${year}${month.toString().padStart(2, '0')}${day.toString().padStart(2, '0')}`;
                 dateStrings.push(dateString);
             }

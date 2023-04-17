@@ -1,0 +1,22 @@
+The Week in Tech: Our Hidden Gems of 2019
+Each week, we review the week’s news, offering analysis about the most important developments in the tech industry.
+Hi, everyone, this is Nellie Bowles, a tech writer for The New York Times in San Francisco. And I’m here to let you in on a sad truth.
+Sometimes news breaks that is more exciting or terrifying or compelling for whatever reason than our beautiful articles about tech. Maybe the article was a long feature that came out right after the impeachment vote. Maybe it was a carefully wrought profile that coincided with Jeffrey Epstein’s death. Whatever the reason, when there is big, surprising news, there is always, in some other corner of The Times, a reporter quietly heartbroken over the realization that her or his article is now at the bottom of the heap.
+So in this newsletter, I will quickly run down the news of a slow news week (it’s New Year’s!). And then we will take a tour through the hidden gems produced by my co-workers in 2019.
+Brian Chen laid out what new tech to expect in 2020 (better home automation, more wearables). And Kevin Roose chose his annual Good Tech Award winners.
+California’s new law to regulate freelance work is upsetting a lot of freelancers, as I reported with my colleague Noam Scheiber, who followed with news that Uber and Postmates filed a lawsuit to stop it. A new California law on privacy is also creating dismay, though in a different way: Few companies agree on what the law means, Natasha Singer wrote.
+SoftBank, famous these days for its investments in overhyped start-ups, faces trouble in India for funding Oyo, a start-up with a noxious work environment, Vindu Goel and Karan Deep Singh wrote.
+The day after Robert Mueller’s congressional testimony, Steve Lohr came out with an article on how the personal data held by tech companies is not just a privacy concern but a wealth and power concentration concern, too.
+The morning after the House impeachment vote, Karen Weise published an investigation into how Amazon controls the many businesses that rely on it.
+Cade Metz went to Bhubaneswar, India, to show the lives of the people who are training computers to replace people. He wrote a nuanced, human piece that reveals the frenzy of work behind algorithms that seem seamless.
+Jack Nicas and Keith Collins exposed the way Apple’s algorithms kept Apple services ranked high in the App Store. Midway through the reporting, the algorithm changed. Apple representatives told Jack that the change was not an admission of wrongdoing but a way to handicap themselves to make it easier for their competitors.
+Just as the holidays were kicking off, Adam Satariano had a tale from the Faroe Islands, “At the Edge of the World, a New Battleground for the U.S. and China.” The photos by Ben Quinton are especially stunning.
+Davey Alba, the tech team’s new reporter on disinformation, wrote about how Facebook’s chief executive, Mark Zuckerberg, told Congress that the company would share a huge amount of data related to disinformation. It didn’t happen as promised.
+During summer’s long vacation-filled months, Brian Chen wrote a confessional: “I Shared My Phone Number. I Learned I Shouldn’t Have.”
+Natasha Singer profiled Baroness Beeban Kidron, a member of Britain’s House of Lords who is fighting Big Tech on behalf of children’s privacy.
+And last but not least, Daisuke Wakabayashi profiled Luigi Zingales, a professor from the famously free-market University of Chicago who is now leading calls for regulating tech.
+Happy New Year! May all your best work go viral in 2020, if only in your heart.
+How are we doing?
+We’d love your feedback on this newsletter. Please email thoughts and suggestions to bits_newsletter@nytimes.com.
+Like this email?
+Forward it to your friends, and let them know they can sign up here.

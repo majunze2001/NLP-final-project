@@ -1,0 +1,29 @@
+What You Need to Know About 5G in 2020
+LAS VEGAS — Like many consumers, Kathryn Schipper, an attorney in Seattle, doesn’t have a landline. She relies on her smartphone for calls and videoconferencing, but reception is spotty.
+So she is excited about the arrival of 5G, the fifth-generation wireless network that has been the subject of breathless speculation over the last few years. The new cellular standard, carriers have said, will reduce network congestion and pump out data so fast that smartphone users could download all the “Avengers” movies in a few minutes. It might even eventually help cars drive themselves.
+“5G seems like orders-of-magnitude improvement,” Ms. Schipper said. “I’ve also heard it’s much more reliable, so that matters to me.”
+Yet the shift to 5G feels like a tech revolution happening in slow motion. In 2019, AT&T and Verizon, the two largest American carriers, lit up their 5G networks in a small number of cities. Handset makers released only a handful of phones compatible with the new standard. The overwhelming majority of us saw no meaningful improvement to our cellular networks.
+At CES, the big consumer electronics show in Las Vegas this week, the carriers are insisting that 2020 will be a turning point for 5G. AT&T and Verizon say they expect their 5G networks to be accessible nationwide this year. In addition, the carriers say at least 15 smartphones will be 5G compatible this year, more than triple the number last year.
+“2020 is pivotal because you’ve got a good foundation built, and the ecosystem starts to form,” said Kevin Petersen, a marketing executive for AT&T.
+So what does that even mean? A major technology shift is underway, which may have an impact on your personal technology in the coming years. And unlike its predecessors, 5G is complex and more confusing.
+Here’s what you need to know:
+In the simplest terms, 5G is a new cellular standard. Phone carriers have jumped to a new wireless standard roughly every decade. About 10 years ago, 4G, the fourth-generation network, arrived with significantly faster speeds and stronger reliability than 3G. About a decade before that, 3G arrived and was much faster and more robust than 2G. You get the picture.
+Unfortunately, 5G is more complicated. There are a few flavors of 5G described with deeply technical jargon.
+To make 5G easier to swallow, let’s rename the jargon into ice cream flavors:
+In some cases, yes. While Wi-Fi is also very fast, it pulls data from a broadband connection, which is susceptible to degraded performance when others nearby are using it. By design, 5G transmits high amounts of data more efficiently, so it is expected to significantly mitigate network congestion. There is a high likelihood that you will get a consistently strong, faster connection on 5G.
+Yes. You will have to buy a new phone with a 5G modem to connect with the new network technologies.
+Most current 5G-compatible phones are expensive: Samsung’s Galaxy Note 10 Plus 5G, for example, costs $1,300. But as the technology becomes more common in the next few years, prices should drop.
+The carriers are still tinkering with pricing.
+Verizon’s earliest 5G plans charged an extra $10 a month for people with compatible smartphones to gain access to 5G. (It is currently waiving that fee as it builds out its 5G network.) However, Ronan Dunne, a Verizon executive, said the carrier was planning different types of packages. Some with access to both vanilla 5G and rocky road 5G could be priced higher, while plans with only vanilla 5G might be priced lower. (He declined to share specific prices.)
+“Here’s a plan which says this plan comes with ultralow latency, and it’s part of a gamers’ package, or it might be part of a movie and entertainment package,” Mr. Dunne said. “Because of this ability to separate components of the network, you can see an evolution of a new type of pricing and plan model.”
+AT&T’s so-called unlimited extra plan, which includes 5G access, costs $75 a month for an individual line.
+T-Mobile said access to its 5G network was available to its subscribers at no additional cost.
+AT&T, unfortunately, made 5G extra confusing for its customers. In late 2018, it rebranded parts of its existing 4G network as “5GE.” So AT&T customers with older 4G-compatible phones started seeing a “5GE” status icon on their screens.
+For the sake of simplicity, let’s ignore 5GE altogether. It’s not real 5G.
+AT&T’s vanilla version of 5G is branded 5G, and its rocky-road version is labeled 5G Plus.
+It depends on where you go. (Some countries still lack thorough 4G coverage.) China is poised to have the largest 5G network in the world, and 5G is well underway in Japan and South Korea. The European Union’s goal is to release 5G in at least one major city in each member state this year, according to a study conducted for the European Commission.
+The benefits will probably feel subtle and significant.
+Lower latency is crucial to future mobile applications. It could make virtual reality work more smoothly — like if you were watching a virtual-reality broadcast of a live sports game and wanted to look around the stadium.
+Reduced lag may also improve gaming: If you were playing a shooting game with friends online, there would be less delay between button presses and your actions in the game.
+A reduction in latency will also help internet-connected devices talk to one another immediately. That is why technologists are looking to 5G deployment as a crucial step toward a world of autonomous cars. If one car is 5G equipped and so is the other, they can tell each other when they are braking. Or if the vehicle is signaling to turn right, it can communicate the turn to cars behind it so they can slow down or switch lanes.
+“You can see why that’s not very relevant today but very useful tomorrow,” said Frank Gillett, a technology analyst for Forrester Research.
