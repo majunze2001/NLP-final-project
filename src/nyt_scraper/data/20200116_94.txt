@@ -1,0 +1,27 @@
+What’s Going On in This Graph? | Global Water Stress Levels
+This graph and map showing water stress levels around the world appeared elsewhere on NYTimes.com.
+By Friday morning, Jan. 23, we will provide the “Reveal” — the graphs’ free online link, additional background and questions, shout outs highlighting student comments and headlines, and Stat Nuggets.
+After looking closely at the graph and the map above (or at this full-size image), think about these three questions:
+The questions are intended to build on one another, so try to answer them in order. Start with “I notice,” then “I wonder,” and end with a catchy headline.
+2. Next, join the conversation by clicking on the comment button and posting in the box that opens on the right. (Students 13 and older are invited to comment online. Teachers of younger students are welcome to post what their students say.)
+3. After you have posted, read what others have said, then respond to someone else by posting a comment. Use the “Reply” button or the @ symbol to address that student directly.
+On Wednesday, Jan. 22, our collaborator, the American Statistical Association, will facilitate this discussion from 9 a.m. to 2 p.m. Eastern Time to help students’ understanding go deeper. You might use their responses as models for your own.
+4. By Friday morning, Jan. 24, we will reveal more information about the graph and map at the bottom of this post. Students, we encourage you to post an additional comment after reading the reveal. How does the original article and the moderators’ comments help you see the graph and map differently? Try to incorporate the statistical terms defined in the Stat Nuggets in your response.
+There are few resources that are as necessary for life as water. This is why the report from the World Resource Institute, a research organization that promotes environmental sustainability, economic opportunity, and human health, is so disturbing when it projects that about one-quarter of the world’s population from 17 countries have the prospect of running out of water. Water stress is due, in part, to climate change that has made rainfall more variable with erratic droughts and deluges. Other causes of water stress include development, agriculture, population growth and deteriorating water infrastructure. Water management can be improved with consumer water conservation, improved water distribution systems, wastewater recycling, wetlands revitalization, and growing less water-intensive crops.
+These graphs and map appeared in the New York Times article “Weather Crisis May Grip a Quarter of Humanity.” The article is based on the World Resource Institute report on global water stress. Go to their website on water to see more maps that show the level of water stress by country and region, including the water risk atlas. Here, you may gather insight into causes of the devastating fires in southeast Australia.
+Here are some of the headlines that really capture the meaning of these graphs: “Water Woes” by Mrs. S.’s class in Shoal Lake, Manitoba, Canada, and “Effects of Urbanization on Availability of Water” by Abby of Michigan.
+You may want to think critically about these questions.
+Below in the Stat Nuggets, we define and explain mathematical terms that apply to the graph.
+Thank you for participating in “What’s Going On in This Graph?” which is intended to help you think more critically about graphs and the underlying data. Critical thinking is an essential element of statistics, the science of learning from data.
+Keep noticing and wondering. We continue to welcome your responses.
+Join us Wednesday, Jan. 29 to notice and wonder about high school sports injuries. We look forward to your responses between 9 a.m. - 2 p.m. Eastern time during the live online moderation.
+________
+To see all previously published Stat Nuggets with links to their graphs, go to this index.
+DOT PLOT
+A dot plot shows the distribution of quantitative data by plotting points on a number line. Dot plots clearly display outliers, gaps and clusters.
+The global water graphs are dot plots of subgroups of cities with populations greater than 3 million. There are five subgroups of level of water stress from low to extremely high. For each subgroup of water stress, the dots are ordered by population size from 3 million to more than 30 million.
+OUTLIERS
+An outlier is a value that is much greater than or much less than other data values. Outliers are unusual in comparison with the other items.
+In the global water graphs, Tokyo is an outlier in terms of population size for the medium to high water stress subgroup. Though New Delhi and New York are the largest cities in the extremely high and low subgroups, respectively, they are not outliers since other cities in their water stress subgroup are of relatively comparable size.
+_________
+The graphs for “What’s Going On in This Graph?” are selected in partnership with Sharon Hessney. Ms. Hessney wrote the “reveal” and Stat Nuggets with Roxy Peck, a professor emerita, California Polytechnic State University San Luis Obispo, and moderates online with Chris Luzniak, a high school mathematics teacher at the Archer School and author of “Up for Debate!”

@@ -1,0 +1,18 @@
+A Common Charger for All Phones? The E.U. Is on the Case
+LONDON — The European Union wants to make it easier to charge your cellphone and other devices.
+This week, members of the European Parliament held a hearing on a measure to require smartphone makers to produce a common charger for all mobile and portable devices sold in the region, including tablets, e-readers and digital cameras.
+The goal: no more frustration at borrowing a friend’s charger only to find it has a Lightning connector when you need a USB-C.
+The proposal has been promoted not only as a matter of convenience, but also as a way to reduce electronic waste. Chargers have been estimated to produce more than 51,000 metric tons of waste annually in the European Union.
+“We are drowning in an ocean of electronic waste,” said Roza Thun, a member of the European Parliament from Poland. “Demand grows and with it waste and exploitation of natural resources.”
+Officials also say that a common kind of charger would reduce consumers’ cost because devices could be sold without a dedicated charger.
+This is not the first time the European Union has tackled this topic. This week’s effort was the third attempt to untangle charging devices in more than a decade.
+In 2009, when there were more than 30 different chargers on the market, the European Commission, the bloc’s executive arm, reached a voluntary agreement with industry giants like Apple, Samsung and Nokia to introduce a smartphone charger that fit all models.
+But the agreement expired in 2014, and the device makers went their separate ways.
+Lawmakers then introduced a similar effort to re-establish a voluntary standard for a single charging port for all smartphones. But that initiative was never adopted, in part because it failed to guarantee interoperability between devices such as speakers and keyboards with smartphones.
+There are now three major types of charging plugs, according to the European Consumer Organization, which backs the effort to standardize chargers: USB 2.0 Micro B, USB-C and Apple’s Lightning.
+Apple previously objected to the European Union’s proposal. A year ago, the company argued that a single standard would “freeze innovation rather than encourage it.” A new charger standard would make current chargers obsolete, it added, which is “bad for the environment and unnecessarily disruptive for customers.”
+At the hearing on Monday, members of the European Parliament lamented the failure to legislate a universal charger, raising environmental concerns and blaming industry for thwarting measures.
+Others pointed to the potential cost benefits of a common charger standard.
+“This would allow consumers to get a better deal and to cut waste at the same time,” said Dita Charanzova of the Czech Republic.
+The European Commission is scheduled to publish a study in the coming weeks to deliberate the next legislative steps.
+But device makers may eventually decide the issue before the legislators do. Each year, an increasing number of phones arrive on the market with another option: wireless charging.

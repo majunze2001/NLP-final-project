@@ -1,0 +1,49 @@
+SpaceX Launch: Highlights From the Crew Dragon Safety Test
+[Follow two NASA astronauts’ return trip aboard SpaceX’s Crew Dragon capsule.]
+The rocket launched. Less than two minutes later, it exploded.
+It appears to be a success.
+Usually the destruction of a rocket in flight means a mission is a failure. But on Sunday, SpaceX was demonstrating a crucial safety system of Crew Dragon, a capsule that is to carry astronauts for NASA to the International Space Station.
+There was no one on board Sunday’s flight. The passengers this time were two test dummies filled with sensors to measure the forces a real crew would experience should they ever need to be saved by the capsule’s escape system.
+At 10:30 a.m. Eastern time, the rocket lifted off at Kennedy Space Center in Florida. Spectators on the ground groaned and cursed when the rocket disappeared into the clouds a minute later. But viewers of NASA’s webcast saw a fireball engulf the rocket after the Crew Dragon capsule ignited its thrusters to accelerate away about 84 seconds into the flight.
+The system proved itself, even during a phase of the flight when atmospheric forces on the spacecraft are most severe.
+One large piece of the Falcon 9 rocket plummeted into the ocean, its impact sending up a mushroom-like plume.
+The Crew Dragon executed the carefully designed choreography — jettisoning the bottom of the spacecraft, firing small thrusters and deploying its parachutes About 9 minutes after the test, the intact capsule landed in the Atlantic Ocean.
+At a news conference after the test, NASA and SpaceX officials beamed.
+“Another amazing milestone is complete for our very soon-to-be project, which is launching American astronauts on American rockets from American soil for the first time since the retirement of the space shuttles,” said Jim Bridenstine, the NASA administrator.
+Elon Musk, the founder and chief executive of SpaceX, said, “It was a picture perfect mission.”
+SpaceX, along with Boeing, have been hired by NASA for its commercial crew program to build capsules and rockets to carry astronauts to orbit. This is a change from the past when NASA built and operated its own vehicles, like the space shuttles and the Saturn 5 rocket during the Apollo moon landings.
+Sunday’s launch was a test of what is known as the in-flight abort system, and aims to verify that the capsule can whisk astronauts away safely from an exploding rocket. It is the last major milestone for SpaceX before NASA permits its astronauts on board.
+The next flight of a Crew Dragon capsule will take two NASA astronauts, Douglas G. Hurley and Robert L. Behnken, to the space station. Mr. Musk said that the capsule for that flight should arrive in Florida arrive by the end of February.
+On Sunday, Mr. Musk said that he, Mr. Bridenstine, and Kathy Lueders, manager of the commercial crew program for NASA, decided that it was most likely the flight would occur sometime during the second quarter of the year — sometime between April and June.
+That will still be regarded as a demonstration flight before the Crew Dragon receives certification by NASA.
+For veteran space watchers, almost every rocket launch is filled with nerve-racking worry that something will go wrong. Failures in the history of spaceflight have destroyed expensive payloads or have ended tragically, as in the case of the space shuttle Challenger in 1986, when the seven astronauts aboard were killed.
+Sunday’s launch, of a SpaceX Falcon 9 rocket with a Crew Dragon capsule on top, was one of the few times you could look forward with anticipation to destruction.
+It was over quickly.
+About 84 seconds after liftoff, the rocket was approximately 12 miles in the air, speeding at 1,200 miles per hour. The nine engines of the booster stage were to shut off, simulating a failure. The flight termination system — which would destroy the rocket in case it veered off course — was active, but was not set off by a “thrust termination” in the booster. Still, the rocket was ripped apart and exploded as powerful SuperDraco thrusters on the Crew Dragon capsule propelled the capsule away from the rocket, taking it to an altitude of about 27 miles.
+The Dragon capsule then dropped off the “trunk,” or bottom half of the spacecraft, and small thrusters pushed it into the correct vertical orientation before parachutes deployed. It splashed down in the Atlantic Ocean about 9 minutes after launch and about 20 miles from where it started. Camera aboard the capsule showed a recovery crew arriving in a boat.
+SpaceX now routinely recovers and reuses the booster stages of its rockets after successfully landing them at a pad near the launch site, or on a floating platform in the ocean. The booster on this flight, designated B1046, has flown to space three times previously, but this time the violent forces of the Crew Dragon blasting away will cause it to be destroyed.
+The second stage of the Falcon 9 was fully fueled, but it lacked an engine. Because the in-flight abort test occurred before the firing of the second stage, putting a real engine there would be an expensive waste.
+SpaceX will clean up after itself. Four ships and at least four aircraft will scan the area and pick up debris in addition to plucking the capsule out of the water.
+The abort test occurred during the phase of the launch when the atmospheric forces on the rocket are greatest — in many ways, the most difficult time to safely halt a trip to space.
+Rocket scientists call this maximum aerodynamic pressure. Think of the force you feel when sticking your hand out the window of a fast-moving car. The faster the car is moving, the greater the force. But for a rocket, the atmosphere thins at higher altitudes, so the force peaks and then diminishes as the rocket enters outer space.
+The period of maximum pressure occurred roughly one minute after launch, and lasted for about 30 seconds. During that time, the Falcon 9 throttled back its engines to reduce the pressure.
+In equations, the quantity of pressure is typically labeled q, so it is often referred to as max-q.
+A Soyuz launch carrying astronauts to the space station in October 2018 demonstrated the value of a working launch-abort system.
+A faulty sensor prevented one of the rocket’s side boosters from falling away cleanly. It instead hit the rocket’s central core. Abort motors accelerated the capsule with two astronauts, Tyler Nicklaus Hague of NASA and Aleksey Ovchinin of Russia, away from the disintegrating rocket.
+They experienced forces six to seven times the usual force of gravity during their escape, but they landed safely.
+The Crew Dragon accelerated at less harrowing speeds, with forces reaching 3.5 times the usual force of gravity.
+In December, Boeing launched one of its Starliner capsules, without anyone aboard, on a demonstration mission where it was to dock with the space station. Had that succeeded, Boeing would have been largely ready for its first mission with astronauts.
+However, a problem with the capsule’s clock — somehow the time was off by 11 hours — caused the spacecraft to waste propellant, and the space station docking was called off.
+After about two days in orbit, the capsule returned to Earth, landing at White Sands Missile Range in New Mexico.
+This month, NASA and Boeing have set up a team to investigate what went wrong, an effort expected to take about two months. Despite the mishap, NASA officials have said it is possible that the Starliner’s next demonstration flight will carry astronauts.
+During a news conference on Friday, Ms. Lueders of NASA said the in-flight abort test was a crucial step for SpaceX to demonstrate that its spacecraft was ready to transport astronauts.
+Yet, Boeing, the other company that will be flying NASA astronauts, will not be conducting such a test.
+Instead, Boeing will be relying on data gathered from a test in November using a capsule launched from the ground, which is known as a “pad abort” test. SpaceX conducted a similar test five years ago.
+NASA does not require an in-flight abort. Rather, the space agency allowed Boeing and SpaceX to propose their own testing programs. Ms. Lueders said this allows companies to devise cost-effective strategies that match their capabilities.
+Because SpaceX reuses its boosters several times, blowing one up is not as costly. But Boeing is launching its Starliners on Atlas 5 rockets, which are more expensive and are only used once.
+Boeing instead conducted extensive wind tunnel tests and computer analyses.
+Regardless of what SpaceX and Boeing do, it could be a busy year for people in space. Another pair of American companies could take passengers on brief trips to the edge of space.
+The spacecraft built by Blue Origin and Virgin Galactic basically just go up and down like a big roller coaster and never accelerate to the speeds needed to reach orbit around Earth.
+Last February, Virgin Galactic’s space plane carried a test crew of three to space. After years of delays, company officials are optimistically saying that commercial flights will begin in 2020.
+In December, Blue Origin, the rocket company started by Jeff Bezos, the chief executive of Amazon, conducted a 12th test flight of its suborbital New Shepard spacecraft, but has not yet put any people aboard. It has not yet said when it would start flying passengers.
+Neither company’s trip to space will be in reach of the average person. Virgin Galactic charges $250,000 for a seat, which will offer a few minutes of weightlessness. Blue Origin has not yet said what it will charge.
