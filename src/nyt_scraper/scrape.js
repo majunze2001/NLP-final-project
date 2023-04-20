@@ -6,8 +6,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const next_day = '20200116'
-const next_count = 153
+const next_day = '20200130'
+const next_count = 100
 
 const login = async (page) => {
     await page.goto('https://www.nytimes.com/');
@@ -64,7 +64,7 @@ const scrapeText = async (url, context, date, counter) => {
     // save the article text to a file
     const fileName = `${date}_${counter}.txt`;
     await page.close();
-    await new Promise((resolve) => setTimeout(resolve, 15000 + Math.floor(Math.random() * 10000)));
+    await new Promise((resolve) => setTimeout(resolve, 25000 + Math.floor(Math.random() * 10000)));
     fs.writeFileSync(`data/${fileName}`, articleText);
 }
 
@@ -106,7 +106,7 @@ const main = async () => {
                     console.error(err);
                     await context.close();
                     context = await browser.newContext();
-                    await new Promise((resolve) => setTimeout(resolve, 10000));
+                    await new Promise((resolve) => setTimeout(resolve, 20000));
                 }
             }
         }

@@ -1,0 +1,50 @@
+Trump’s Digital Advantage Is Freaking Out Democratic Strategists
+In a blog post published in November, a year before the 2020 election, Brian Burch, the president of CatholicVote.org, a socially conservative advocacy group, announced that in Wisconsin alone his organization had identified 199,241 Catholics “who’ve been to church at least 3 times in the last 90 days.”
+Nearly half of these religiously observant parishioners, Burch wrote, “91,373 mass-attending Catholics — are not even registered to vote!” CatholicVote.org is looking for potential Trump voters within this large, untapped reservoir — Republican-leaning white Catholics who could bolster Trump’s numbers in a battleground state.
+Burch, whose organization opposes abortion and gay marriage, made his plans clear:
+How did Catholic Vote come up with these particular church attendance numbers for 199,241 Catholics? With geofencing, a technology that creates a virtual geographic boundary, enabling software to trigger a response when a cellphone enters or leaves a particular area — a church, for example, or a stadium, a school or an entire town.
+Geofencing is just one of the new tools of digital campaigning, a largely unregulated field of political combat in which voters have little or no idea of how they are being manipulated, in which traditional disclosure requirements are inoperative and key actors are anonymous. It is a weapon of choice. Once an area is geofenced, commercial data companies can acquire the mobile phone ID numbers of those within the boundary.
+This is how the National Catholic Reporter described the process in an article earlier this month:
+Burch described what CatholicVote.org initiated in the 2018 election. “We created ad campaigns targeted to mobile devices that have been inside of Catholic churches,” Burch explained. What’s more,
+If you attend an evangelical or a Catholic Church, a women’s rights march or a political rally of any kind, especially in a seriously contested state, the odds are that your cellphone ID number, home address, partisan affiliation and the identifying information of the people around you will be provided by geofencing marketers to campaigns, lobbyists and other interest groups.
+With increasing speed, digital technology is transforming politics, constantly providing novel ways to target specific individuals, to get the unregistered registered, to turn out marginal voters, to persuade the undecided and to suppress support for the opposition.
+Democrats and Republicans agree that the Trump campaign is far ahead of the Democratic Party in the use of this technology, capitalizing on its substantial investment during the 2016 election and benefiting from an uninterrupted high-tech drive since then.
+Republicans “have a big advantage this time,” Ben Nuckels, a Democratic media consultant said in a phone interview. “They not only have all the data from 2016 but they have been building this operation into a nonstop juggernaut.”
+The new technology, Nuckels continued, allows campaigns to “deliver a broader narrative over the top” on television and other media, while “underneath in digital you are delivering ads that are tailored to those voters that you need to influence and persuade the most.”
+The explosion of digital technology has created the opportunity for political operatives to run what amount to dark campaigns, conducted below the radar of both voter awareness and government oversight.
+In some cases, the technology is very simple: the anonymous transmission of negative images of candidates by individuals to Facebook groups. This activity is neither reported to the Federal Election Commission nor linked to official campaigns.
+Steven Livingston, a professor of media and public affairs and director of the Institute for Data, Democracy and Politics at George Washington University, has been tracking this sub rosa electioneering in the current election cycle. He found that supporters of two candidates, Trump and Bernie Sanders, are the primary practitioners.
+The Washington Post and The New York Times have both reported on the activities of Sanders supporters, but, Livingston noted in an email, “Our evidence suggests that Trump supporters use automated promotion or cross posting four times as much as Sanders supporters.”
+Livingston described “these digital shadow campaigns” as “analogous to and perhaps an actual digital manifestation of ‘dark money’ influence campaigns.” In addition, he continued,
+Livingston provided some of the kind of negative messages and images promoted by anonymous pro-Trump activists. Here is one:
+And here is one made by a Sanders enthusiast:
+Experts in the explosively growing field of political digital technologies have developed an innovative terminology to describe what they do — a lexicon that is virtually incomprehensible to ordinary voters. This language provides an inkling of the extraordinarily arcane universe politics has entered:
+Geofencing and other emerging digital technologies derive from microtargeting marketing initiatives that use consumer and other demographic data to identify the interests of specific voters or very small groups of like-minded individuals to influence their thoughts or actions. Microtargeting first had a significant impact on American politics in state level campaign work by Alec Gage, a Republican, and his firm TargetPoint in 2002.
+Now, political operatives are exploiting commercial techniques to correlate microtargeting data with the identification numbers of cellphones. This allows campaigns to mobilize, persuade and turn out — or to suppress turnout among — key voters.
+In 2016, Trump spent far more than Hillary Clinton on digital campaigning, and since then his campaign, under the direction of Brad Parscale, has continued far outpace its Democratic rivals.
+In a paper published this month, “The digital commercialization of US politics — 2020 and beyond,” Kathryn Montgomery, a professor of communications at American University, and Jeff Chester, executive director of the Center for Digital Democracy, described the differences between the 2016 Trump and Clinton campaigns:
+Parscale, who is now managing Trump’s 2020 campaign, claimed in a 2018 tweet that the Trump campaign tech operation was “100 times to 200 times” more effective than the Clinton campaign’s, adding “@realDonaldTrump was a perfect candidate for Facebook.”
+On Monday, Parscale boasted on the conservative website Townhall that Trump rallies are providing a gold mine of data for the 2020 election:
+Similar findings are coming out of other rallies, according to Parscale:
+In the current election cycle, Montgomery and Chester write,
+Technologies used for “identity resolution,” they write,
+The authors go on to warn that “all of these developments are taking place, moreover, within a regulatory structure that is weak and largely ineffectual.”
+Tara McGowan, executive director of the recently created pro-Democratic group Acronym, which plans to spend $75 million on digital and other media, replied to my questions by email:
+The greatest advantage, McGowan continued, that
+In addition to ACRONYM, pro-Democratic groups like Priorities USA, American Bridge, America Votes and a host of others are working together, prepared to spend more than $300 million to counter the Trump efforts.
+In addition, the campaigns of Mike Bloomberg, Bernie Sanders and Tom Steyer are all spending huge amounts of money on digital strategies focused on Facebook, Google and other social media.
+Still, there are concerns that much of the Democratic spending will have limited value in the general election, insofar as it is going toward states that will not be 2020 battlegrounds, including, for example, Alabama, Arkansas, California, Massachusetts, Oklahoma, Tennessee, Utah and Vermont on Tuesday March 3, better known as Super Tuesday. In addition, whoever becomes the Democratic nominee will not be able to share his or her data with the independent pro-Democratic groups, according to federal regulation.
+Apple, Google and most other major internet players have adopted privacy policies that would appear to significantly constrain the ability of data management firms to obtain detailed household information, consumer spending and partisan leanings of smartphone users. But it turns out that there are ways to get around the rules.
+Serge Egelman, a research director at Berkeley’s International Computer Science Institute and a co-author of the paper “50 Ways to Leak Your Data: An Exploration of Apps’ Circumvention of the Android Permissions System,” replied to my email:
+These unsuspecting users were mistaken.
+What does this mean for politics?
+The data
+This data, he added, enables campaigns to list “individual attendees at political rallies;” to identify “political leanings based on online and offline preferences (where you live, work, shop, play, etc.); and to segment “ads based on inferred psychographic traits (i.e., exactly what Cambridge Analytica did, but instead of personalized political ads on Facebook, users get personalized ads in potentially all of their mobile apps).”
+Egelman noted that “from the user’s perspective, there’s literally no way of preventing it from happening or even knowing when it’s happening.” The expectation “that app users should be able to figure this all out and manage it is absolutely ludicrous.”
+A pro-Democratic strategist who is helping coordinate the independent effort to defeat Trump — and who insisted on anonymity to protect his job — described what he believes is the current state of play in the role of digital technology in larger, overall strategy:
+If Marco Rubio were president in this thriving economy, he continued, “2020 would not be a competitive election, and the Democrats might not have claimed the House in 2018.”
+“Crucially,” the strategist said,
+In other words, a huge swath of Trump-supportive media does not perform fact-based journalism.
+In addition, the Democratic strategist said,
+While studies show that “digital ads have at most a slight persuasive effect,” he noted,
+What’s the bottom line?

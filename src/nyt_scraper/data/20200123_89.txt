@@ -1,0 +1,28 @@
+What’s Going On in This Graph? | High-School Sports Injuries
+These infographics which show the number of sports injuries per 10,000 competition plays by high school boys appeared elsewhere on NYTimes.com.
+By Friday morning, Jan. 31, we will provide the “Reveal” — the infographic’s free online link, additional background and questions, shout outs highlighting student comments and headlines, and Stat Nuggets.
+After looking closely at the graph above (or at this full-size image), think about these three questions:
+The questions are intended to build on one another, so try to answer them in order. Start with “I notice,” then “I wonder,” and end with a catchy headline.
+2. Next, join the conversation by clicking on the comment button and posting in the box that opens on the right. (Students 13 and older are invited to comment online. Teachers of younger students are welcome to post what their students say.)
+3. After you have posted, read what others have said, then respond to someone else by posting a comment. Use the “Reply” button or the @ symbol to address that student directly.
+On Wednesday, Jan. 29, our collaborator, the American Statistical Association, will facilitate this discussion from 9 a.m. to 2 p.m. Eastern time to help students’ understanding go deeper. You might use their responses as models for your own.
+4. By Friday morning, Jan. 31, we will reveal more information about the graph at the bottom of this post. Students, we encourage you to post an additional comment after reading the reveal. How do the original article and the moderators’ comments help you see the graph differently? Try to incorporate the statistical terms defined in the Stat Nuggets in your response.
+We’ve been hearing about how sports injuries, especially from playing football, harm athletes permanently. But, how much more dangerous is football than other sports? And, what sports injuries are the most prevalent? Funded by the Center for Disease Control and Prevention (CDC), Dr. R. Dawn Comstock and researchers at the University of Colorado Denver have compiled injury data for the National High School Sports-Related Injury Surveillance Study. Included is fourteen years of data on nine sports for high school boys and girls.
+Five summary infographics appeared in the New York Times article “Inside Football’s Campaign to Save the Game.” Which boys’ sport has the most injuries? Which part of the body is injured most frequently? And, how does this compare to the experience of you and our classmates?
+Here are some of the headlines that really capture the meaning of these infographics: “Athletes In Danger!” by Brianna of Hancock , Maryland and “Friday Night Hospital Lights” by Mairead of Hoggard High School in Wilmington, NC. And a pair of “head” headlines: “Keep Your Head in the Game, Hopefully” by Kate, Karl, Erika, and Emilie of Eden Prairie High School, Minnesota, and “Use Your Head. Are These Sports Safe?” by Devyn of Academy of St. Elizabeth, Morristown, New Jersey.
+You may want to think critically about these questions.
+Below in the Stat Nuggets, we define and explain mathematical terms that apply to the infographic.
+Thank you for participating in “What’s Going On in This Graph?” which is intended to help you think more critically about graphs and the underlying data. Critical thinking is an essential element of statistics, the science of learning from data.
+Keep noticing and wondering. We continue to welcome your responses.
+Join us Wednesday, Feb. 5 to notice and wonder about neighborhood racial composition. We look forward to your responses between 9 a.m. - 2 p.m. Eastern time during the live online moderation.
+________
+To see all previously published Stat Nuggets with links to their graphs, go to this index.
+INFOGRAPHIC
+An infographic is a visual display or picture with numbers or statistics.
+In the sports injury infographic, the number of high school boy injuries per 10,000 competition plays by body location for five sports is displayed on a visual of a boy. Since the area of the injury’s circle is proportional to the number of injuries, this infographic is similar to a bubble graph, but with two categorical variables – the sport and the location of the injury.
+PERCENTAGE POINT DIFFERENCE vs. PERCENTAGE DIFFERENCE
+Percentage point difference is the difference between two percentages and is expressed as a counting number. It can be either a positive, negative, or zero.
+Percentage difference is the difference between two percentages divided by the baseline percentage and is expressed as a percentage. Percentage difference can be either negative, positive, or zero.
+In the sports injury infographic, football has 34 head injuries per 10,000 competition plays (0.34%) and basketball has 7 head injuries per 10,000 competition plays (0.07%). The percentage point difference is 0.27% (0.0034 – 0.0007) x 100) – a little less than one-third of one percent, while football’s percentage difference from basketball is 386% ((0.0034 - 0.0007)/0.0007) – almost five times more than basketball.
+_________
+The graphs for “What’s Going On in This Graph?” are selected in partnership with Sharon Hessney. Ms. Hessney wrote the “reveal” and Stat Nuggets with Erica Chauvet, professor of mathematics at Waynesburg University in Pennsylvania, and moderates online with Corey Andreasen, high school mathematics teacher at the American School of the Hague, the Netherlands.
