@@ -1,0 +1,40 @@
+Phone Hacks Can Happen to Anyone. Here’s How to Protect Yourself.
+The mobile phone belonging to Jeff Bezos, the founder and chief executive of Amazon, was allegedly hacked when he clicked a video sent through WhatsApp, essentially turning over control of his phone and all of its contents to the hackers.
+Compromising the security of the world’s wealthiest man is no mean feat. But hackers are using more surreptitious ways to gain access to people’s financial lives and threaten their wealth.
+In the last two years, security experts have seen a steady increase in simple schemes to get into accounts, like phishing, as well as more complicated campaigns to gain control over a victim’s financial life, like taking over a phone or a computer.
+The scariest threats yet may be the plots in which criminals impersonate an adviser, an employee or even a family member to get approval for a transaction.
+Gone are the days, advisers say, when they could simply tell clients not to post online that they were leaving for vacation, to avoid calling attention to an empty house filled with valuables. (Social media posts are still not a good idea for vacationers, but more on that below.)
+And it’s not so much the complexity of the attacks that is a problem; it’s the ease with which hackers can gain access to someone’s phone and life.
+“People can do it as a lifestyle enhancement,” said Edward V. Marshall, who leads the family office practice at Boston Private, a wealth management firm. “They’re doing it at night after work. The cost to learn how to become a hacker is so low.”
+He said “white hat” courses, which train ethical hackers who want to bring security vulnerabilities to light, can cost as little as $10. And the knowledge can be exploited.
+Given the randomness of phishing, anyone can be a target. But the big prey are going to be attacked in a more focused and persistent way.
+“The No. 1 thing high-net-worth people need to be aware of is they’re always targets,” said Mark G. McCreary, chief privacy officer at the Fox Rothschild law firm. “Anyone who is a celebrity is constantly posting where they are and where they’ll be.”
+Social media not only presents an opportunity for criminals, he said, it provides them with more personal details about you, which allows them to create the mosaic they can use to impersonate you.
+Protecting yourself starts with knowing how you are open to attack. Here are some common vulnerabilities and solutions for each.
+In this share-all age, the idea of not posting photos of your every moment on social media is anathema. After all, how could someone who posts a photo of grilled lamb chops at home refrain from posting an image of Moroccan lamb served al fresco in Casablanca?
+But those instant posts do more than alert bad guys that you’re not grilling in your backyard. They tell criminals about your likes and dislikes and help them create a fuller portrait of who you are and what might be lurking in your email should they hack it.
+Vacations, in general, are fraught with risk. The hotel Wi-Fi network should never be used, because it exposes your devices to hacking. Use the hot spot on your phone instead, and never log into your financial accounts on a public network.
+Some Wi-Fi hotel networks are outright fakes. David W. Fox Jr., president of the global family and private investment offices group at Northern Trust, said he cautioned clients about logging into hotel networks that look legitimate but have a twist on the hotel’s name. “You click on it and get in, and you just downloaded all the information on your phone,” he said.
+Syncing your phone with a rental car is a risk, too. It’s not just that your contacts will be stored in the car. Thieves can plant malware in the car to gain access to more than your most-called list.
+Similarly, never charge your phone with a charging station in a hotel room. That also can allow access to your data.
+Children post too much, but that’s not your biggest worry. They can also be distracted and impulsive, two characteristics of adolescence that hackers can exploit to get them to swipe on all kinds of things.
+Like a phishing email that appears to leave a hair on the screen of a mobile phone — except it’s not a hair but a link that opens to a malware program that takes over the phone. Mr. Fox said this particularly crafty program was virtually impossible to protect against.
+But he has worked with clients to set up accounts with strict time limits for children and stronger encryption of their data. “We know we can’t prevent every fat finger,” Mr. Fox said. “We want to make sure that if something gets out, it’s indecipherable.”
+Much has been made of “deepfake” videos and their ability to trick viewers into thinking they are real. These doctored videos can be created using clips of public figures who have been filmed extensively and have words, mannerisms and verbal tics that are easy to appropriate.
+Mr. McCreary said he knew of an instance when a deepfake audio recording was used to initiate a wire transfer. This tactic could play out again — as the voice of a patriarch instructing a lower-level person in a family office, for example.
+There is no simple way to counteract it. Mr. McCreary advises stronger measures for his clients, such as: “You have a system in place as a family business that no matter who calls, there’s an immediate call back to that individual.”
+A proliferation of deepfake videos is less worrisome because of the level of technology required to create one, said Rachel Wilson, head of cybersecurity for wealth management at Morgan Stanley, who worked at the National Security Agency.
+She is more concerned about simpler tricks that trap employees. Last year, Ms. Wilson said, the two biggest areas of concern were business emails that were hacked and servers that were taken over using ransomware.
+“The sophistication is infinitely less than the technology needed to do deepfakes,” she said. “They can learn a lot about you and then hijack the money.”
+Simpler still is a scheme in which a hacker calls and asks for the corporate Wi-Fi password. “They may call 50 people, but they’ll get the password from someone,” Mr. Marshall said.
+Another scheme, particularly in family offices or places where various people have authority to move money, conveys a sense of urgency to try to rush a wire transfer.
+“You need old-school, analog relationships,” said Christopher Ott, a lawyer specializing in cybersecurity in Washington who previously worked for the Department of Justice. “The human protocol and the relationship between the adviser and client is the best way to combat this.”
+And that means taking the time to train people who work for you, as well as friends and relatives, to understand there needs to be a stronger verification process.
+Sometimes the people hired to help you, like accountants and lawyers, can innocently provide a way into your financial life.
+In the “man-in-the-middle fraud,” a hacker intercepts emails to you, gaining access to your financial information.
+Mr. Ott represented a client who was buying a condominium in Florida. The hackers got into the email of the client’s real estate lawyer and redirected the purchase funds at closing to another account. Had the client not quickly realized what had happened, the money most likely would have been gone for good.
+“The Secret Service tracked down the money and got 90 percent of it back and then an insurance settlement for the rest,” Mr. Ott said.
+There is no fixed protocol on how to handle such thefts.
+“The solution will never be a static one,” Mr. Ott said. “Thinking there’s going to be one fix that will fix it forever is the wrong way to think about it. You need to think about security like any other business protocol that can change.”
+The best that people can do is verify everything through basic human interaction that will slow and eventually thwart hackers.
+“Cybersecurity is a lot like outrunning a bear,” Mr. Ott said. “You don’t need to be faster than the bear. You just need to be faster than the last guy.”
