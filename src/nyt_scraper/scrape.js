@@ -6,8 +6,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
-const next_day = '20200205'
-const next_count = 100
+const next_day = '20200206'
+const next_count = 106
 
 const login = async (page) => {
     await page.goto('https://www.nytimes.com/');
