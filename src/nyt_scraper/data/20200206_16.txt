@@ -1,0 +1,23 @@
+China Begins Testing an Antiviral Drug in Coronavirus Patients
+China is forging ahead in the search for treatments for people sickened by the new coronavirus that has infected more than 28,000 people in a countrywide epidemic, killed more than 500 and seeded smaller outbreaks in 24 other nations.
+The need is urgent: There are no approved treatments for illnesses caused by coronaviruses.
+On Thursday, China began enrolling patients in a clinical trial of remdesivir, an antiviral medicine made by Gilead, the American pharmaceutical giant.
+The drug has to be given intravenously, is experimental and not yet approved for any use, and has not been studied in patients with any coronavirus disease. But studies of infected mice and monkeys have suggested that remdesivir can fight coronaviruses.
+And it appears to be safe. It was tested without ill effects in Ebola patients, although it did not work well against that virus, which is in a different family from coronaviruses.
+Doctors in Washington State gave remdesivir to the first coronavirus patient in the United States last week after his condition worsened and pneumonia developed when he’d been in the hospital for a week. His symptoms improved the next day.
+A single case cannot determine whether a drug works, but a report on the Washington patient, in The New England Journal of Medicine, has nonetheless sparked excitement about the drug.
+Another report published on Tuesday by scientists in China added to the enthusiasm, showing that remdesivir blocked the new coronavirus, officially known as 2019-nCoV, from infecting cells grown in the lab.
+“It is important to keep in mind that this is an experimental medicine that has only been used in a small number of patients with 2019-nCoV to date, so we do not have an appropriately robust understanding of the effect of this drug to warrant broad use at this time,” Ryan McKeel, a Gilead spokesman, said in an email.
+Two clinical trials will take place in Wuhan, China, the center of the outbreak; 500 patients will receive the drug, and comparison groups will get a placebo, Mr. McKeel said.
+One trial, which began enrolling patients on Thursday, includes people who are severely ill with symptoms such as needing oxygen. The other trial will involve patients who are hospitalized but not as sick.
+The patients will be given the drug intravenously for 10 days, and then assessed 28 days after the treatment to see how they fared compared to the placebo groups.
+If the drug works, will Gilead be able to provide enough for everyone who needs it?
+“There are currently limited available clinical supplies of remdesivir, but we are working to increase our available supply as rapidly as possible,” Mr. McKeel said.
+Gilead had stockpiled the drug, as well as the materials used to make it, for use against Ebola. The company is now using that stockpile for the trials in China and for individual patients like the one in Washington State, whose doctors sought special permission from the Food and Drug Administration for “compassionate use” so that they could give him an unapproved drug.
+[Like the Science Times page on Facebook. | Sign up for the Science Times newsletter.]
+The company plans to speed production and is looking for “manufacturing partners in multiple geographies,” Mr. McKeel said, adding that Gilead was going ahead with these preparations without knowing yet whether the drug works against the new coronavirus.
+In the meantime, the Wuhan Institute of Virology has applied for a patent in China to use remdesivir to treat the coronavirus, according to a statement on the institute’s website.
+Gilead already has patents for the drug in China and other parts of the world, and in 2016 filed additional patent applications to use it against coronaviruses. But the company’s application for coronavirus use is still pending, Mr. McKeel said.
+“Gilead has no influence over whether a patent office issues a patent to the Chinese researchers,” he added.
+In its statement, the virology institute said it would not exercise its patent rights “if relevant foreign companies intend to contribute to the prevention and control of China’s epidemic.”
+The report from China published on Tuesday about remdesivir also found that chloroquine, a cheap drug used for decades to treat malaria, could also fight the new coronavirus. Researchers are recommending that it also be studied, along with various antiviral medications, including some of the ones used to treat H.I.V.
