@@ -7,8 +7,8 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const cookie_file = 'cookies.json';
-const next_day = '20200102';
-const next_count = 24;
+const next_day = '20200000';
+const next_count = 0;
 
 const login = async (browserContext) => {
     const cookie_data = fs.readFileSync(path.join(__dirname, cookie_file),
@@ -148,8 +148,14 @@ const main = async () => {
                 try {
                     const title = await getTitle(url, context);
                     if (title !== ""){
+                        const fileName = `${date}_${counter}.txt`;
+                        if (fs.existsSync(`data/${fileName}`)) {
+                            console.log(`${fileName} exists`);
+                            continue;
+                        }
                         await scrapeText("https://chatgptproxy.me/#/", context, date, counter, title);
                     }
+
                 } catch (err) {
                     console.log(`Error generating article: ${url}`);
                     console.error(err);
