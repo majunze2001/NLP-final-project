@@ -145,17 +145,16 @@ const main = async () => {
                 if (date == next_day && counter < next_count) {
                     continue;
                 }
+                const fileName = `${date}_${counter}.txt`;
+                if (fs.existsSync(`data/${fileName}`)) {
+                    console.log(`${fileName} exists`);
+                    continue;
+                }
                 try {
                     const title = await getTitle(url, context);
                     if (title !== ""){
-                        const fileName = `${date}_${counter}.txt`;
-                        if (fs.existsSync(`data/${fileName}`)) {
-                            console.log(`${fileName} exists`);
-                            continue;
-                        }
                         await scrapeText("https://chatgptproxy.me/#/", context, date, counter, title);
                     }
-
                 } catch (err) {
                     console.log(`Error generating article: ${url}`);
                     console.error(err);
