@@ -121,7 +121,7 @@ const main = async () => {
     });
     await new Promise(resolve => setTimeout(resolve, 2000));
     let context = await browser.newContext();
-    context.setDefaultTimeout(100000);
+    context.setDefaultTimeout(60000);
     // await login(browser);
 
     // gpt is too powerful so we use proxy
@@ -160,6 +160,7 @@ const main = async () => {
                     console.error(err);
                     await context.close();
                     context = await browser.newContext();
+                    context.setDefaultTimeout(60000);
                     await new Promise((resolve) => setTimeout(resolve, 20000));
                 }
             }
