@@ -3,6 +3,8 @@ Detection on generated text @NYU
 
 ## Main repo -- source code
 
+[Model Link](https://drive.google.com/drive/folders/1eZ5NpirUX9BIzwzU115KoD2-pFCW9ice?usp=sharing)
+
 
 ## Write-ups 
 Proposal and papers locate in `writeups`, connected with overleaf. 
