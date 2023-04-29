@@ -1,0 +1,30 @@
+Random Forest Test Evaluation:
+  Positive Class:
+    Precision: 0.747
+    Recall: 0.740
+    F-measure: 0.744
+  Negative Class:
+    Precision: 0.745
+    Recall: 0.752
+    F-measure: 0.748
+
+Logistic Regression Test Evaluation:
+  Positive Class:
+    Precision: 0.783
+    Recall: 0.794
+    F-measure: 0.789
+  Negative Class:
+    Precision: 0.793
+    Recall: 0.782
+    F-measure: 0.787
+
+SVM Test Evaluation:
+  Positive Class:
+    Precision: 0.780
+    Recall: 0.805
+    F-measure: 0.792
+  Negative Class:
+    Precision: 0.800
+    Recall: 0.774
+    F-measure: 0.787
+
