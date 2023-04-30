@@ -143,3 +143,4 @@ tmp*
 
 # trained models
 *.joblib
+*.png
