@@ -25,6 +25,7 @@ from nltk import bigrams, trigrams
 model_rf = load('../model_rf.joblib')
 model_lr = load('../model_lr.joblib')
 model_svm = load('../model_svm.joblib')
+tfidf_transformer = load('../tfidf_transformer.joblib')
 
 # features functions
 # Feature extraction functions
@@ -85,8 +86,7 @@ def count_numbers(text):
     return count / num_sentences if num_sentences > 0 else 0
 
 
-def predict_one(s, model, tfidf_transformer):
-    tfidf_transformer = TfidfVectorizer()
+def predict_one(s, model):
     # Extract features
     _, avg_sent_length = sentence_length(s)  # We only need the average sentence length
     repetitive_words = repetitivewords(s)
@@ -103,8 +103,7 @@ def predict_one(s, model, tfidf_transformer):
 
     # Make a prediction using the model
     prediction = model.predict(s_combined)
-
-    return prediction
+    return prediction[0]
 
 # Test the function with a sample string and the SVM model
 def predict_string(s):
@@ -112,5 +111,3 @@ def predict_string(s):
     rf = predict_one(s, model_rf)
     lr = predict_one(s, model_lr)
     return [svm, rf, lr]
-
-
