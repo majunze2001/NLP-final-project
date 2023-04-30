@@ -1,0 +1,52 @@
+.container {
+    border: 2px solid;
+    width: 60%;
+    margin: 0 auto;
+}
+
+header,
+footer,
+main {
+    padding: 20px;
+}
+header h1,
+header div {
+    text-align: center;
+}
+header div form {
+    margin-top: 8px;
+}
+
+a:visited {
+    color: blue;
+}
+
+header,
+main {
+    border-bottom: 2px solid;
+    margin-bottom: 5px;
+}
+
+.post {
+    font-size: 12px;
+}
+
+footer {
+    margin-bottom: 5px;
+}
+
+textarea {
+    resize: none;
+    width: 400px;
+    height: 80px;
+}
+
+#error {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+input[type='text'] {
+    width: 240px;
+}
