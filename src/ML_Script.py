@@ -297,4 +297,5 @@ def training(gpt_data_filename):
     outfile.close()
 
 
-training(gpt_data_files[0])
+for n in gpt_data_files:
+    training(n)
