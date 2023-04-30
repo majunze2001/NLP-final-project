@@ -140,3 +140,6 @@ key.py
 node_modules
 
 tmp*
+
+# trained models
+*.joblib

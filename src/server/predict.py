@@ -81,6 +81,7 @@ def count_numbers(text):
 
 
 def predict_one(s, model, tfidf_transformer):
+    tfidf_transformer = TfidfVectorizer()
     # Extract features
     _, avg_sent_length = sentence_length(s)  # We only need the average sentence length
     repetitive_words = repetitivewords(s)
@@ -101,9 +102,10 @@ def predict_one(s, model, tfidf_transformer):
     return prediction
 
 # Test the function with a sample string and the SVM model
-def predict_string(s, model, tfidf_transformer):
-    svm = predict_one(s, model_svm, tfidf)
-    rf = predict_one(s, model_rf, tfidf)
-    lr = predict_one(s, model_lr, tfidf)
+def predict_string(s):
+    svm = predict_one(s, model_svm)
+    rf = predict_one(s, model_rf)
+    lr = predict_one(s, model_lr)
+    return [svm, rf, lr]
 
 
