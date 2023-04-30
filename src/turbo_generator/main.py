@@ -14,7 +14,7 @@ if not data_path.exists():
     data_path.mkdir()
 
 total_count = 0
-MAX_COUNT = 900
+MAX_COUNT = 1500
 
 def get_title(url):
     req = Request(
