@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Detector for AI-generated Text</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <h1>My Detector for AI-generated Text</h1>
+                <div>
+                </div>
+            </header>
+            <main>
+                <form method="POST" action="{{ url_for('predict') }}">
+                    <div>
+                        <p>Text:</p>
+                        <textarea id="text" name="text" required>{% if results %}{{results.text}}{% else %}To be or not to be ~~~ {% endif %}</textarea>
+                    </div>
+                    {% if results %}
+                    <p>Results:</p>
+                    <ul>
+                        <li>SVM: {{results.svm}}</li>
+                        <li>Random Forest: {{results.rf}}</li>
+                        <li>Logistic Regression: {{results.lr}}</li>
+                    </ul>
+                    {% endif %}
+                    <p>
+                        <input type="submit"/>
+                    </p>
+                </form>
+            </main>
+            <footer>
+                <p>
+                    The source code for this project is
+                    <a href="https://github.com/majunze2001/NLP-final-project" target="_blank">available on Github</a>.
+                </p>
+                <p>Author: @Jeff (Junze) Ma</p>
+            </footer>
+        </div>
+    </body>
+</html>

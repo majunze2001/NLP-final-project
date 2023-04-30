@@ -110,4 +110,8 @@ def predict_string(s):
     svm = predict_one(s, model_svm)
     rf = predict_one(s, model_rf)
     lr = predict_one(s, model_lr)
-    return [svm, rf, lr]
+    return {'text': s.strip(), 
+            'svm' : "Generated" if svm else "Human-written", 
+            'rf':"Generated" if rf else "Human-written", 
+              'lr': "Generated" if lr else "Human-written", 
+              }

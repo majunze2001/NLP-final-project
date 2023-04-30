@@ -1,17 +1,21 @@
-from flask import Flask, request
+from flask import Flask, request, render_template,redirect, url_for
 from predict import predict_string 
 
 app = Flask(__name__)
 
-@app.route("/")
-def hello_world():
-    text = request.args.get('query')
-    print(text)
-    return f"<p>Hello, World! {predict_string(text)}</p>"
 
 
-@app.route("/predict")
+@app.route('/')
+def home():
+    """
+    Route for the home page
+    """
+    return render_template('index.html')
+
+
+@app.route('/', methods=['POST'])
 def predict():
-    text = request.args.get('query')
-    print(text)
-    return f"<p>Hello, World! {predict_string(text)}</p>"
+    text = request.form['text'].strip()
+    results = predict_string(text)
+    print(results)
+    return render_template('index.html', results = results)
