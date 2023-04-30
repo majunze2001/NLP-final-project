@@ -201,30 +201,30 @@ def training(gpt_data_filename):
                 'kernel': ['linear', 'rbf']}
 
 
-    model_rf = RandomForestClassifier(random_state=42)
-    model_lr = LogisticRegression(random_state=42, max_iter=1000)
-    model_svm = SVC(random_state=42)
+    model_rf = RandomForestClassifier(random_state=42, verbose=1)
+    model_lr = LogisticRegression(random_state=42, max_iter=1000, verbose=1)
+    model_svm = SVC(random_state=42, verbose=1)
 
-    grid_rf = GridSearchCV(model_rf, rf_params, cv=5)
+    grid_rf = GridSearchCV(model_rf, rf_params, cv=5, verbose=1)
     grid_rf.fit(X_val_combined, y_val)
     best_rf_params = grid_rf.best_params_
 
-    grid_lr = GridSearchCV(model_lr, lr_params, cv=5)
+    grid_lr = GridSearchCV(model_lr, lr_params, cv=5, verbose=1)
     grid_lr.fit(X_val_combined, y_val)
     best_lr_params = grid_lr.best_params_
 
-    grid_svm = GridSearchCV(model_svm, svm_params, cv=5)
+    grid_svm = GridSearchCV(model_svm, svm_params, cv=5, verbose=1)
     grid_svm.fit(X_val_combined, y_val)
     best_svm_params = grid_svm.best_params_
 
     # Train models with optimal parameters
-    model_rf = RandomForestClassifier(**best_rf_params, random_state=42)
+    model_rf = RandomForestClassifier(**best_rf_params, random_state=42, verbose=1)
     model_rf.fit(X_train_combined, y_train)
 
-    model_lr = LogisticRegression(**best_lr_params, random_state=42, max_iter=1000)
+    model_lr = LogisticRegression(**best_lr_params, random_state=42, max_iter=1000, verbose=1)
     model_lr.fit(X_train_combined, y_train)
 
-    model_svm = SVC(**best_svm_params, random_state=42)
+    model_svm = SVC(**best_svm_params, random_state=42, verbose=1)
     model_svm.fit(X_train_combined, y_train)
 
     if SAVE:
