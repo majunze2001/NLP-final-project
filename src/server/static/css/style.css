@@ -50,3 +50,11 @@ textarea {
 input[type='text'] {
     width: 240px;
 }
+
+#text{
+    width: 100%;
+}
+
+#form-footer{
+    text-align: center;
+}
