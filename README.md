@@ -1,5 +1,5 @@
 # NLP Final Project Repo 
-Detection on generated text @NYU
+Detection of generated text @NYU
 
 We present a technique to distinguish between human-generated and machine-generated text. Our method involves the extraction of five statistical features, including the average sentence length, the ratio of repetitive words, entropy, punctuation, and digit numbers. These features are combined with TF-IDF features. Then, we optimize hyperparameters using Grid Search and employ machine learning models, including logistic regression (LR), support vector machine (SVM), and random forest (RF) to classify AI-generated excerpts. Our approach is evaluated on 6 datasets, each containing 5000 samples of human and 5000 samples of machine-generated text, which is divided into training, validation, and testing subsets. By using 3 evaluation metrics, precision, recall, and F-measure, we demonstrate the effectiveness and reliability of our method in accurately distinguishing between human-produced and machine-produced text. We then conduct an error analysis to see the 30 most common misclassified part-of-speech tags. We build a prototype web-based detector application with Flask that can be easily scaled with larger custom data sets.
 
