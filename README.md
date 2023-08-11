@@ -1,27 +1,5 @@
 # NLP Final Project Repo 
-Detection on generated text @NYU
+Detection of generated text @NYU
 
-## Main repo -- source code
-
-[Model Link](https://drive.google.com/drive/folders/1eZ5NpirUX9BIzwzU115KoD2-pFCW9ice?usp=sharing)
-
-
-## Write-ups 
-Proposal and papers locate in `writeups`, connected with overleaf. 
-
-### How to start
-Go to your [Overleaf](https://www.overleaf.com/project) homepage --> New Project --> Import from GitHub --> find [NLP-final-project-writeup](https://github.com/majunze2001/NLP-final-project-writeup)
-![create](images/create.png)
-- If you do not have Overleaf GitHub Sync setup, go to [Overleaf Account Settings](https://www.overleaf.com/user/settings), set up GitHub Sync
-  ![connect](images/connect.png)
-
-### How to sync
-Inside our Overleaf project, go to **Menu** --> **Sync** --> **Github**
-![syncmenu](images/syncmenu.png)
-> **Pull before you change something**
-
-> **Push after you change something**
-
-![sync](images/sync.png)
-
+We present a technique to distinguish between human-generated and machine-generated text. Our method involves the extraction of five statistical features, including the average sentence length, the ratio of repetitive words, entropy, punctuation, and digit numbers. These features are combined with TF-IDF features. Then, we optimize hyperparameters using Grid Search and employ machine learning models, including logistic regression (LR), support vector machine (SVM), and random forest (RF) to classify AI-generated excerpts. Our approach is evaluated on 6 datasets, each containing 5000 samples of human and 5000 samples of machine-generated text, which is divided into training, validation, and testing subsets. By using 3 evaluation metrics, precision, recall, and F-measure, we demonstrate the effectiveness and reliability of our method in accurately distinguishing between human-produced and machine-produced text. We then conduct an error analysis to see the 30 most common misclassified part-of-speech tags. We build a prototype web-based detector application with Flask that can be easily scaled with larger custom data sets.
 
